@@ -1,0 +1,76 @@
+2024-01-11 17:22:07.6051 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-11 17:22:07.7347 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-11 17:22:07.7742 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-11 17:22:07.7996 Info Configuration initialized.
+2024-01-11 17:23:30.0807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-11 17:23:30.1026 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-11 17:23:30.1338 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-11 17:23:30.1517 Info Configuration initialized.
+2024-01-11 21:33:23.9732 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-11 21:33:23.9995 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-11 21:33:24.0139 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-11 21:33:24.0268 Info Configuration initialized.
+2024-01-11 21:36:55.1653 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-11 21:36:55.1897 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-11 21:36:55.2041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-11 21:36:55.2248 Info Configuration initialized.
+2024-01-11 21:39:21.2500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-11 21:39:21.3321 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-11 21:39:21.3756 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-11 21:39:21.4039 Info Configuration initialized.
+2024-01-11 21:39:25.0746 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-11 21:39:25.0984 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-11 21:39:25.1247 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-11 21:39:25.1368 Info Configuration initialized.
+2024-01-12 14:44:54.2347 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-12 14:44:54.2882 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-12 14:44:54.3097 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-12 14:44:54.3291 Info Configuration initialized.
+2024-01-12 14:51:33.6043 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-12 14:51:33.6239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-12 14:51:33.6381 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-12 14:51:33.6499 Info Configuration initialized.
+2024-01-12 17:13:54.9515 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-12 17:13:54.9778 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-12 17:13:54.9998 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-12 17:13:55.0205 Info Configuration initialized.
+2024-01-12 17:15:11.9524 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-12 17:15:12.0067 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-12 17:15:12.0348 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-12 17:15:12.0557 Info Configuration initialized.
+2024-01-12 17:16:50.4503 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-12 17:16:50.5119 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-12 17:16:50.5707 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-12 17:16:50.6090 Info Configuration initialized.
+2024-01-14 01:02:34.4126 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-14 01:02:34.4645 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-14 01:02:34.5070 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-14 01:02:34.5287 Info Configuration initialized.
+2024-01-15 11:09:21.3848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-15 11:09:21.4648 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-15 11:09:21.4929 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-15 11:09:21.5245 Info Configuration initialized.
+2024-01-15 11:10:12.6182 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-15 11:10:12.7865 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-15 11:10:12.8261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-15 11:10:12.8616 Info Configuration initialized.
+2024-01-15 15:33:02.0108 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-15 15:33:02.0708 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-15 15:33:02.1151 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-15 15:33:02.1472 Info Configuration initialized.
+2024-01-15 15:36:26.2518 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-15 15:36:26.3637 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-15 15:36:26.4213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-15 15:36:26.4616 Info Configuration initialized.
+2024-01-15 15:37:13.8013 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-15 15:37:14.1264 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-15 15:37:14.2154 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-15 15:37:14.2727 Info Configuration initialized.
+2024-01-15 16:32:01.9297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-15 16:32:01.9933 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-15 16:32:02.0534 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-15 16:32:02.0888 Info Configuration initialized.
+2024-01-17 16:33:11.4100 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-17 16:33:11.4789 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-17 16:33:11.5019 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\DERSLER\APILESSONS\bsStoreApp\WebApi\nlog.config
+2024-01-17 16:33:11.5267 Info Configuration initialized.
